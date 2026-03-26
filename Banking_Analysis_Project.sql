@@ -18,7 +18,7 @@ CREATE TABLE Transactions (
     PIN_Code VARCHAR(255)
 );
 SELECT count(*) FROM Transactions;
-SET SQL_SAFE_UPDATES = 0; -- Now run your Fraud_Flag update command again:
+SET SQL_SAFE_UPDATES = 0;
 UPDATE Transactions 
 SET Fraud_Flag = CASE 
     WHEN Fraud_Flag = 'TRUE' THEN '1' 
