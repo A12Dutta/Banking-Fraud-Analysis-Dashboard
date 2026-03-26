@@ -1,0 +1,21 @@
+BANKING OPERATIONS & FRAUD RISK INTELLIGENCE,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,High - Risk Geolocation Watchlist,,,,,,,,,,"PRO - ACTIVE RISK SUMMARY
+•Mobile Vulnerability: Mobile devices show a 51.25% fraud rate, significantly higher than desktop. Recommend multi-factor authentication (MFA) specifically for mobile logins. 
+•High-Risk Geolocations: Identified 5 specific coordinates with 100% fraud rates. Recommend immediate blacklisting of these IP/Location signatures.
+•Anomalous Spike: Significant transaction surge noted at 11:00 AM. Further investigation required to determine if this is a recurring bot-attack pattern."
+,Geolocation,Total Transactions,Fraud Count,,,,,,,,
+,"51.5074 N, -118.2437 W",21,21,,,,,,,,
+,"34.0522 N, 0.1278 W",20,20,,,,,,,,
+,"48.8566 N, 139.6917 W",20,20,,,,,,,,
+,"51.5074 N, 0.1278 W",20,20,,,,,,,,
+,"55.7558 N, 2.3522 W",19,19,,,,,,,,
