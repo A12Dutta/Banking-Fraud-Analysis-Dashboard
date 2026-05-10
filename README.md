@@ -1,4 +1,4 @@
-# Banking-Fraud-Analysis-Dashboard
+# Banking-Fraud-Analysis
 
 📌 Project Overview
 
@@ -24,8 +24,29 @@ Data Visualization: Created conditional formatting watchlists and risk-based bar
 
 📂 Repository Structure
 
-Banking_Fraud_Dashboard.pdf – Final dashboard export.
-
-Banking_Transaction_Data.csv – Raw dataset used for analysis.
-
-Fraud_Analysis_Queries.sql – SQL scripts for data processing.
+banking-fraud-analysis/
+│
+├── README.md
+│
+├── dashboard/
+│   ├── Banking_Fraud_Analysis_Dashboard.pdf        
+│   └── Banking_Fraud_Analysis_Dashboard.png        
+│
+├── report/
+│   └── Banking_Fraud_Analysis_REPORT.pdf           
+│
+├── sql/
+│   └── Banking_Analysis_Project.sql                
+│
+├── data/
+│   ├── raw/
+│   │   └── transaction_data_original.csv           
+│   │
+│   └── processed/
+│       ├── device_fraud.csv
+│       ├── geolocation.csv
+│       ├── hourly_trends.csv
+│       └── type_performance.csv
+│
+└── combined_dashboard_data/
+    └── Banking_Fraud_Analysis_Dashboard.csv        
