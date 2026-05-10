@@ -1,0 +1,7 @@
+Transaction_Type,Transaction_Status,Transaction_Count
+Deposit,Failed,166
+Withdrawal,Success,145
+Withdrawal,Failed,165
+Transfer,Success,192
+Deposit,Success,150
+Transfer,Failed,182
